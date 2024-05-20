@@ -37,7 +37,7 @@
 ## Conclusions
 - No pre-trained model have been used. The models are custom build.
 - Batch Size 32 have been used and images have been resized to 180 x 180 px.
-- There are three custom models have been build in the notebook.
+- There are five custom models have been build in the notebook.
 - Model 1: Shows a sign of Overfitting with high training but low validation accuracy.
 - Model 2: Shows a sign of Underfitting with low accuracy and higher fluctuations in training/validation losses.
 - Model 3: Also Shows a sign of Underfitting with low accuracy, but fluctuations in training/validation losses have been reduced by using Dropout Layer.
@@ -47,9 +47,12 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Augmentor - version 0.2.12
+- Keras - version 2.15.0
+- Matplotlib - version 3.7.1
+- Pandas - version 2.0.3
+- Pathlib - version 1.0.1
+- Tensorflow - version 2.15.1
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
