@@ -46,13 +46,14 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Technologies Used
-- Augmentor - version 0.2.12
-- Keras - version 2.15.0
+## Technologies Used 
 - Matplotlib - version 3.7.1
 - Pandas - version 2.0.3
+- Numpy - version 1.25.2
 - Pathlib - version 1.0.1
-- Tensorflow - version 2.15.1
+- Augmentor - version 0.2.12
+- Keras - version 2.15.0
+- Tensorflow - version 2.15.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
